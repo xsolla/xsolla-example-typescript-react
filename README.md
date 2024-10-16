@@ -3,7 +3,7 @@
 This repository provides an example of how to integrate Xsolla PayStation and handle payment processing
 
 ## Setup Instructions
-
+Video instruction - https://www.youtube.com/watch?v=7kjZN0239SE
 
 ### 1. Create and set up project in Publisher Account
 See documentation https://developers.xsolla.com/solutions/payments/client-side-token-generation/create-and-set-up-pa-project/
